@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Advanced Concept</string>
+    <string name="start_task">Start Background Task</string>
+    <string name="stop_task">Stop Task</string>
+    <string name="task_running">Task running: %d%%</string>
+    <string name="task_completed">Background task completed!</string>
+    <string name="task_cancelled">Task cancelled</string>
+    <string name="using_handler">Using Handler + Thread</string>
+    <string name="using_asynctask">Using AsyncTask</string>
+    <string name="using_threadpool">Using ThreadPool</string>
+</resources>
